@@ -8,7 +8,7 @@ let currentSlide = 0;
 function nextSlide() {
   currentSlide = currentSlide + 1;
   slider.style.transform = `translateY(-${currentSlide * 100}%)`;
-  if (currentSlide == 3) {
+  if (currentSlide == 7) {
     currentSlide = -1;
   }
 }

@@ -202,9 +202,9 @@ span {
   }
 
   .slider-container {
-    height: 375px;
+    height: 380px;
     width: 255px;
-    top: 11px;
+    top: 13px;
     overflow: hidden;
     display: flex;
     justify-content: center;
@@ -316,7 +316,8 @@ span {
     width: 30px;
     position: absolute;
     top: -7px;
-    left: -7px;
+    top: -8px;
+    left: -8px;
     border: 8px solid rgba(255, 138, 0, 0.7);
     opacity: 0.4;
     border-radius: 60px;
@@ -327,8 +328,8 @@ span {
     height: 30px;
     width: 30px;
     position: absolute;
-    top: -7px;
-    left: -7px;
+    top: -8px;
+    left: -8px;
     border: 8px solid rgba(255, 138, 0, 0.7);
     border-radius: 60px;
     animation: btn-phone-circle2 3s infinite ease-out;
@@ -444,6 +445,7 @@ span {
     align-items: center;
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 9px;
     letter-spacing: 0.2em;
   }
 
@@ -482,6 +484,7 @@ span {
   }
 
   .hamb-field {
+    margin-bottom: 9px;
     padding: 10px 20px;
     cursor: pointer;
   }
@@ -567,7 +570,8 @@ span {
   }
 
   .logo-img {
-    margin: 5px;
+    /* width: 20px; */
+    margin: 2px 15px 7px 1px;
   }
 
   /* .gradient {
@@ -2194,7 +2198,7 @@ span {
 
   .slider-container {
     position: absolute;
-    height: 559px;
+    height: 570px;
     width: 259px;
     top: 13px;
     left: 70px;
@@ -2228,6 +2232,7 @@ span {
   }
 
   .iphone {
+    height: 615px;
     position: relative;
     width: 400px;
     z-index: 2;
@@ -2304,8 +2309,8 @@ span {
     height: 40px;
     width: 40px;
     position: absolute;
-    top: -7px;
-    left: -7px;
+    top: -8px;
+    left: -8px;
     border: 8px solid rgba(255, 138, 0, 0.7);
     opacity: 0.4;
     border-radius: 60px;
@@ -2316,8 +2321,8 @@ span {
     height: 40px;
     width: 40px;
     position: absolute;
-    top: -7px;
-    left: -7px;
+    top: -8px;
+    left: -8px;
     border: 8px solid rgba(255, 138, 0, 0.7);
     border-radius: 60px;
     animation: btn-phone-circle2 3s infinite ease-out;
@@ -2454,6 +2459,7 @@ span {
     align-items: center;
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 9px;
     letter-spacing: 0.2em;
   }
 
@@ -2494,6 +2500,7 @@ span {
   .hamb-field {
     padding: 10px 20px;
     cursor: pointer;
+    margin-bottom: 9px;
   }
 
   .bar {
@@ -2576,7 +2583,8 @@ span {
   }
 
   .logo-img {
-    margin: 5px;
+    /* margin: 5px; */
+    margin: 2px 15px 7px 1px;
   }
 
   /* nav {
@@ -4687,6 +4695,7 @@ span {
   }
 
   .privilege {
+    margin-left: 100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -5937,8 +5946,8 @@ span {
     height: 60px;
     width: 60px;
     position: absolute;
-    top: -7px;
-    left: -7px;
+    top: -8px;
+    left: -8px;
     border: 8px solid rgba(255, 138, 0, 0.7);
     opacity: 0.4;
     border-radius: 60px;
@@ -5949,8 +5958,8 @@ span {
     height: 60px;
     width: 60px;
     position: absolute;
-    top: -7px;
-    left: -7px;
+    top: -8px;
+    left: -8px;
     border: 8px solid rgba(255, 138, 0, 0.7);
     border-radius: 60px;
     animation: btn-phone-circle2 3s infinite ease-out;
@@ -5958,7 +5967,7 @@ span {
 
   .slider-container {
     position: absolute;
-    height: 559px;
+    height: 568px;
     width: 259px;
     top: 13px;
     left: 70px;
@@ -5994,6 +6003,7 @@ span {
   .iphone {
     position: relative;
     width: 400px;
+    height: 615px;
     z-index: 2;
   }
 }
