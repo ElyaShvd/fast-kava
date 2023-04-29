@@ -240,6 +240,7 @@ span {
     object-fit: contain; /* Масштабирование фотографии с сохранением пропорций, чтобы она помещалась внутрь слайда без растягивания */
   }
   .iphone {
+    height: 415px;
     position: relative;
     max-width: 270px;
   }
@@ -315,7 +316,6 @@ span {
     height: 30px;
     width: 30px;
     position: absolute;
-    top: -7px;
     top: -8px;
     left: -8px;
     border: 8px solid rgba(255, 138, 0, 0.7);
